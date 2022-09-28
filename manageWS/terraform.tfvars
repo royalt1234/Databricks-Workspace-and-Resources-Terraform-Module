@@ -1,0 +1,13 @@
+host                            = ""
+token                           = ""
+cluster_name                    = ""
+cluster_autotermination_minutes = 60
+cluster_num_workers             = 1
+notebook_subdirectory           = "Terraform"
+notebook_filename               = "notebook-getting-started-quick-start.sql"
+notebook_language               = "SQL"
+git_username                    = ""
+git_provider                    = ""
+personal_access_token           = ""
+repo_url                        = ""
+job_name                        = ""
